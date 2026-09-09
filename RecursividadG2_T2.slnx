@@ -1,1 +1,4 @@
-<Solution />
+<Solution>
+  <Project Path="Recursividad.Logica/Recursividad.Logica.csproj" Id="eb65bc35-f62c-47b4-8c8d-196adc27d8ab" />
+  <Project Path="Recursividad.UI.Consola/Recursividad.UI.Consola.csproj" Id="a31fb02d-40cf-4d90-ba25-5e9b2a6fa564" />
+</Solution>
